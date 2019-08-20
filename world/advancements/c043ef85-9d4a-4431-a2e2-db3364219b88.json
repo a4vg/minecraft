@@ -1,0 +1,78 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2019-08-11 08:39:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-11 08:39:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2019-08-11 08:44:40 -0500",
+      "baked_potato": "2019-08-11 08:48:56 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2019-08-11 08:39:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2019-08-11 08:44:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2019-08-11 08:39:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2019-08-13 17:02:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2019-08-11 08:39:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2019-08-11 08:39:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2019-08-13 17:02:28 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2019-08-11 08:41:48 -0500",
+      "minecraft:mountains": "2019-08-11 08:39:08 -0500",
+      "minecraft:taiga": "2019-08-10 20:56:23 -0500",
+      "minecraft:giant_tree_taiga": "2019-08-11 08:51:59 -0500",
+      "minecraft:taiga_hills": "2019-08-11 08:51:53 -0500",
+      "minecraft:river": "2019-08-11 08:41:36 -0500",
+      "minecraft:wooded_hills": "2019-08-11 08:44:30 -0500",
+      "minecraft:giant_tree_taiga_hills": "2019-08-11 08:51:20 -0500",
+      "minecraft:plains": "2019-08-11 08:43:52 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 1976
+}
