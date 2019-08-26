@@ -692,6 +692,7 @@
       "minecraft:witch": "2019-07-22 01:16:44 -0500",
       "minecraft:wither_skeleton": "2019-08-13 15:25:50 -0500",
       "minecraft:enderman": "2019-08-13 14:50:05 -0500",
+      "minecraft:silverfish": "2019-08-25 21:16:20 -0500",
       "minecraft:zombie": "2019-07-21 21:13:23 -0500",
       "minecraft:drowned": "2019-07-21 23:39:25 -0500",
       "minecraft:zombie_villager": "2019-08-04 20:21:18 -0500"
@@ -944,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2019-08-20 23:48:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2019-08-13 15:13:10 -0500"
@@ -959,6 +966,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-07-21 21:46:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2019-08-26 13:22:49 -0500"
     },
     "done": true
   },
@@ -1371,6 +1384,7 @@
       "minecraft:snowy_mountains": "2019-08-04 23:43:24 -0500",
       "minecraft:forest": "2019-07-21 22:11:35 -0500",
       "minecraft:mountains": "2019-07-21 19:52:54 -0500",
+      "minecraft:mushroom_fields": "2019-08-26 01:54:22 -0500",
       "minecraft:taiga": "2019-07-21 19:51:07 -0500",
       "minecraft:desert_hills": "2019-07-22 00:08:21 -0500",
       "minecraft:giant_tree_taiga": "2019-08-04 20:21:07 -0500",
@@ -1397,6 +1411,7 @@
       "minecraft:wooded_hills": "2019-07-21 22:13:48 -0500",
       "minecraft:giant_tree_taiga_hills": "2019-08-04 23:37:47 -0500",
       "minecraft:stone_shore": "2019-08-04 23:51:38 -0500",
+      "minecraft:mushroom_field_shore": "2019-08-26 01:54:21 -0500",
       "minecraft:swamp": "2019-07-21 23:42:07 -0500",
       "minecraft:snowy_taiga_hills": "2019-08-04 23:45:21 -0500",
       "minecraft:savanna": "2019-08-05 00:15:14 -0500",
@@ -1950,12 +1965,14 @@
       "cooked_mutton": "2019-07-22 00:23:15 -0500",
       "cooked_beef": "2019-07-22 00:32:48 -0500",
       "baked_potato": "2019-07-22 01:56:51 -0500",
+      "beetroot_soup": "2019-08-26 01:56:58 -0500",
       "apple": "2019-07-21 23:44:06 -0500",
       "cooked_cod": "2019-08-05 00:39:49 -0500",
       "poisonous_potato": "2019-08-19 13:23:31 -0500",
       "pumpkin_pie": "2019-08-19 23:25:04 -0500",
       "bread": "2019-07-21 21:48:40 -0500",
       "suspicious_stew": "2019-08-05 00:13:39 -0500",
+      "mushroom_stew": "2019-08-26 12:03:16 -0500",
       "rabbit_stew": "2019-08-04 23:26:36 -0500",
       "cooked_salmon": "2019-07-22 02:48:19 -0500",
       "carrot": "2019-07-23 14:30:16 -0500"
@@ -2355,6 +2372,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2019-07-21 23:15:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2019-08-26 13:22:49 -0500"
     },
     "done": true
   },
@@ -2937,6 +2960,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-07-21 22:33:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2019-08-26 13:22:49 -0500"
     },
     "done": true
   },

@@ -338,6 +338,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-08-18 20:17:36 -0500",
+      "cooked_mutton": "2019-08-20 23:01:21 -0500",
       "sweet_berries": "2019-08-18 17:48:13 -0500",
       "beef": "2019-08-18 18:10:27 -0500",
       "baked_potato": "2019-08-18 19:38:49 -0500",
@@ -1536,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2019-08-18 19:55:27 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2019-08-18 19:56:01 -0500"
@@ -1545,12 +1552,6 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2019-08-18 20:09:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2019-08-18 19:55:27 -0500"
     },
     "done": true
   },
